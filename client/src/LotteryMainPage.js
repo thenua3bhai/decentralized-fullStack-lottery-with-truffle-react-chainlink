@@ -122,7 +122,7 @@ export default function LotteryMainPage() {
             Enter
           </Button>
         </Form>
-        <Stack spacing={2} direction="row" justifyContent="end">
+        <Stack spacing={3} direction="row" justifyContent="end">
           <Button
             onClick={pickWinner}
             variant="contained"
